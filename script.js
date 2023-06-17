@@ -39,6 +39,7 @@ function removeAdmin() {
       }
     })
     console.log(filtered_arr);
+    arr = filtered_arr;
 }
 
 function concatenateArray() {
